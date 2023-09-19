@@ -1,0 +1,7 @@
+#ifndef EXINTERRUPT_PRIVATE_H_
+#define EXINTERRUPT_PRIVATE_H_
+
+
+
+
+#endif /* EXINTERRUPT_PRIVATE_H_ */
